@@ -1,5 +1,4 @@
-
-import 'package:causeways_live/util/app_constants.dart';
+import 'package:flutter_learn_downloader/util/app_constants.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class SplashRepo {

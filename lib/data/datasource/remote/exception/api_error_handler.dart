@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:causeways_live/data/model/response/base/error_response.dart';
+import 'package:flutter_learn_downloader/data/model/response/base/error_response.dart';
 
 class ApiErrorHandler {
   static dynamic getMessage(error) {

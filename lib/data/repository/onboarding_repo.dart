@@ -1,8 +1,8 @@
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
-import 'package:causeways_live/data/datasource/remote/dio/dio_client.dart';
-import 'package:causeways_live/data/datasource/remote/exception/api_error_handler.dart';
-import 'package:causeways_live/data/model/response/base/api_response.dart';
+import 'package:flutter_learn_downloader/data/datasource/remote/dio/dio_client.dart';
+import 'package:flutter_learn_downloader/data/datasource/remote/exception/api_error_handler.dart';
+import 'package:flutter_learn_downloader/data/model/response/base/api_response.dart';
 
 class OnBoardingRepo {
   final DioClient dioClient;

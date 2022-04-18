@@ -1,11 +1,11 @@
 import 'dart:ui';
 
-import 'package:causeways_live/data/model/response/onboarding_model.dart';
-import 'package:causeways_live/util/images.dart';
-import 'package:causeways_live/util/styles.dart';
+import 'package:flutter_learn_downloader/data/model/response/onboarding_model.dart';
+import 'package:flutter_learn_downloader/util/images.dart';
+import 'package:flutter_learn_downloader/util/styles.dart';
 import 'package:flutter/material.dart';
-import 'package:causeways_live/provider/onboarding_provider.dart';
-import 'package:causeways_live/util/color_resources.dart';
+import 'package:flutter_learn_downloader/provider/onboarding_provider.dart';
+import 'package:flutter_learn_downloader/util/color_resources.dart';
 import 'package:provider/provider.dart';
 import 'package:extended_nested_scroll_view/extended_nested_scroll_view.dart';
 

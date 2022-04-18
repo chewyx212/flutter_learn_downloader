@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:causeways_live/util/app_constants.dart';
-import 'package:causeways_live/util/color_resources.dart';
+import 'package:flutter_learn_downloader/util/app_constants.dart';
+import 'package:flutter_learn_downloader/util/color_resources.dart';
 
 class CustomAppBarWidget extends StatelessWidget
     implements PreferredSizeWidget {

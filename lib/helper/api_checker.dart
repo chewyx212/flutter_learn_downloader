@@ -1,8 +1,8 @@
-import 'package:causeways_live/helper/custom_snackbar.dart';
+import 'package:flutter_learn_downloader/helper/custom_snackbar.dart';
 import 'package:flutter/material.dart';
-import 'package:causeways_live/data/model/response/base/api_response.dart';
-// import 'package:causeways_live/provider/splash_provider.dart';
-// import 'package:causeways_live/util/routes.dart';
+import 'package:flutter_learn_downloader/data/model/response/base/api_response.dart';
+// import 'package:flutter_learn_downloader/provider/splash_provider.dart';
+// import 'package:flutter_learn_downloader/util/routes.dart';
 // import 'package:provider/provider.dart';
 
 class ApiChecker {

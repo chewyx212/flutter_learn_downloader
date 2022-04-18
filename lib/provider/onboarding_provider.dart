@@ -1,8 +1,8 @@
 import 'package:intl/intl.dart';
 import 'package:flutter/material.dart';
-import 'package:causeways_live/data/model/response/base/api_response.dart';
-import 'package:causeways_live/data/model/response/onboarding_model.dart';
-import 'package:causeways_live/data/repository/onboarding_repo.dart';
+import 'package:flutter_learn_downloader/data/model/response/base/api_response.dart';
+import 'package:flutter_learn_downloader/data/model/response/onboarding_model.dart';
+import 'package:flutter_learn_downloader/data/repository/onboarding_repo.dart';
 
 class OnBoardingProvider with ChangeNotifier {
   final OnBoardingRepo onboardingRepo;

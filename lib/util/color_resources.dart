@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:causeways_live/provider/theme_provider.dart';
+import 'package:flutter_learn_downloader/provider/theme_provider.dart';
 import 'package:provider/provider.dart';
 
 class ColorResources {

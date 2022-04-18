@@ -5,18 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "causeways_live",
+            "name": "flutter_learn_downloader",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "causeways_live (profile mode)",
+            "name": "flutter_learn_downloader (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "causeways_live (release mode)",
+            "name": "flutter_learn_downloader (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"

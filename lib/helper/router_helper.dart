@@ -1,10 +1,10 @@
 // import 'dart:ffi';
-import 'package:causeways_live/view/screen/home/home_screen.dart';
+import 'package:flutter_learn_downloader/view/screen/home/home_screen.dart';
 import 'package:fluro/fluro.dart';
-import 'package:causeways_live/util/routes.dart';
-import 'package:causeways_live/view/base/not_found.dart';
-import 'package:causeways_live/view/screen/onboarding/onboarding_screen.dart';
-import 'package:causeways_live/view/screen/splash/splash_screen.dart';
+import 'package:flutter_learn_downloader/util/routes.dart';
+import 'package:flutter_learn_downloader/view/base/not_found.dart';
+import 'package:flutter_learn_downloader/view/screen/onboarding/onboarding_screen.dart';
+import 'package:flutter_learn_downloader/view/screen/splash/splash_screen.dart';
 
 class RouterHelper {
   static final FluroRouter router = FluroRouter();

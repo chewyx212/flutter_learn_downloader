@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:causeways_live/helper/network_info.dart';
-import 'package:causeways_live/helper/responsive_helper.dart';
-import 'package:causeways_live/util/color_resources.dart';
-import 'package:causeways_live/util/styles.dart';
+import 'package:flutter_learn_downloader/helper/network_info.dart';
+import 'package:flutter_learn_downloader/helper/responsive_helper.dart';
+import 'package:flutter_learn_downloader/util/color_resources.dart';
+import 'package:flutter_learn_downloader/util/styles.dart';
 
 class DashboadrdScreen extends StatefulWidget {
   final int pageIndex;

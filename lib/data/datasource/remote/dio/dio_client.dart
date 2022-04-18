@@ -1,8 +1,8 @@
 import 'dart:io';
 
 import 'package:dio/dio.dart';
-import 'package:causeways_live/data/datasource/remote/dio/logging_interceptor.dart';
-import 'package:causeways_live/util/app_constants.dart';
+import 'package:flutter_learn_downloader/data/datasource/remote/dio/logging_interceptor.dart';
+import 'package:flutter_learn_downloader/util/app_constants.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class DioClient {

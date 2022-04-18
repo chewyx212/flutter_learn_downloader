@@ -1,18 +1,18 @@
 import 'dart:io';
 
-import 'package:causeways_live/view/screen/splash/splash_screen.dart';
+import 'package:flutter_learn_downloader/view/screen/splash/splash_screen.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 // import 'package:flutter_local_notifications/flutter_local_notifications.dart';
-import 'package:causeways_live/helper/responsive_helper.dart';
-import 'package:causeways_live/helper/router_helper.dart';
-import 'package:causeways_live/provider/onboarding_provider.dart';
-import 'package:causeways_live/provider/splash_provider.dart';
-import 'package:causeways_live/provider/theme_provider.dart';
-import 'package:causeways_live/theme/dark_theme.dart';
-import 'package:causeways_live/theme/light_theme.dart';
-import 'package:causeways_live/util/app_constants.dart';
-import 'package:causeways_live/util/routes.dart';
+import 'package:flutter_learn_downloader/helper/responsive_helper.dart';
+import 'package:flutter_learn_downloader/helper/router_helper.dart';
+import 'package:flutter_learn_downloader/provider/onboarding_provider.dart';
+import 'package:flutter_learn_downloader/provider/splash_provider.dart';
+import 'package:flutter_learn_downloader/provider/theme_provider.dart';
+import 'package:flutter_learn_downloader/theme/dark_theme.dart';
+import 'package:flutter_learn_downloader/theme/light_theme.dart';
+import 'package:flutter_learn_downloader/util/app_constants.dart';
+import 'package:flutter_learn_downloader/util/routes.dart';
 import 'package:url_strategy/url_strategy.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter/foundation.dart' show kIsWeb;

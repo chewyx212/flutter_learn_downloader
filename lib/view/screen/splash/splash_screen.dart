@@ -1,12 +1,12 @@
 import 'dart:async';
 import 'dart:io';
-import 'package:causeways_live/util/styles.dart';
+import 'package:flutter_learn_downloader/util/styles.dart';
 import 'package:flutter/material.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
-import 'package:causeways_live/util/color_resources.dart';
-import 'package:causeways_live/util/images.dart';
-import 'package:causeways_live/util/routes.dart';
-import 'package:causeways_live/provider/splash_provider.dart';
+import 'package:flutter_learn_downloader/util/color_resources.dart';
+import 'package:flutter_learn_downloader/util/images.dart';
+import 'package:flutter_learn_downloader/util/routes.dart';
+import 'package:flutter_learn_downloader/provider/splash_provider.dart';
 import 'package:provider/provider.dart';
 
 class SplashScreen extends StatefulWidget {

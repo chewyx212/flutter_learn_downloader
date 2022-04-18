@@ -1,7 +1,7 @@
-import 'package:causeways_live/util/images.dart';
+import 'package:flutter_learn_downloader/util/images.dart';
 import 'package:flutter/material.dart';
-import 'package:causeways_live/provider/onboarding_provider.dart';
-import 'package:causeways_live/util/color_resources.dart';
+import 'package:flutter_learn_downloader/provider/onboarding_provider.dart';
+import 'package:flutter_learn_downloader/util/color_resources.dart';
 import 'package:provider/provider.dart';
 
 class HomeScreen extends StatefulWidget {

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:causeways_live/helper/responsive_helper.dart';
-import 'package:causeways_live/util/dimensions.dart';
-import 'package:causeways_live/util/styles.dart';
+import 'package:flutter_learn_downloader/helper/responsive_helper.dart';
+import 'package:flutter_learn_downloader/util/dimensions.dart';
+import 'package:flutter_learn_downloader/util/styles.dart';
 
 class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
   final String title;
